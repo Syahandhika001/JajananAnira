@@ -20,7 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 
-<section class="ftco-section" id="products">
+<section class="ftco-section">
       <div class="container">
           <div class="row no-gutters ftco-services">
     <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
@@ -40,8 +40,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <span class="flaticon-diet"></span>
         </div>
         <div class="media-body">
-          <h3 class="heading">Rajanya Pedas</h3>
-          <span>Aroma Khas Daun Jeruk</span>
+          <h3 class="heading">Selalu Segar</h3>
+          <span>Dipetik Langsung dari Kebun</span>
         </div>
       </div>    
     </div>
@@ -70,6 +70,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   </div>
       </div>
   </section>
+
 
 
   <section class="ftco-section" id="produk">
